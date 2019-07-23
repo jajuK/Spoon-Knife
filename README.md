@@ -16,23 +16,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 
 
-
-
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
-
-
-
-
-
-
 | Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
 | Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
 | Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
