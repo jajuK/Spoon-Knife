@@ -10,5 +10,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 | PROBLEM | PAPER | CODE |
 | :---:         |     :---:      |          :---: |
-| Classification   | git status     | Implemented in keras, pytorch, fastai |
+| Classification   | [“ResNet” Deep Residual Learning for Image Recognition
+](https://arxiv.org/abs/1512.03385)     | Implemented in keras, pytorch, fastai |
 | Detection     | git diff       | Part of FAIR’s Detectron      |
