@@ -9,19 +9,24 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 | PROBLEM | PAPER | CODE |
-===========================
 | :---:         |     :---:      |          :---: |
-|-----------------|-----------------|----------------------|
 | Classification| [“ResNet” Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)| Implemented in keras, pytorch, fastai |
-|-----------------|-----------------|----------------------|
 | Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)<br> Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks    | Part of FAIR’s Detectron<br>Part of Tensorflow Object Detection API |
-|-----------------|-----------------|----------------------|
 
 
 
 
 
 
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++---------------+---------------+--------------------+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++---------------+---------------+--------------------+
 
 
 
