@@ -19,3 +19,18 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 |Face Detection| [Selective Refinement Network for High Performance Face Detection](https://arxiv.org/pdf/1809.02693v1.pdf)|[CODE](https://github.com/ChiCheng123/SRN)|
 |Face Recognition| [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832v3.pdf)|[CODE](https://github.com/davidsandberg/facenet)|
 |Tracking| [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/pdf/1812.05050.pdf)|[CODE](https://github.com/foolwood/SiamMask)|
+|Depth Estimation| [Digging Into Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1806.01260v3.pdf)|[CODE](https://github.com/nianticlabs/monodepth2)|
+|Structure from Motion| |[opensfm](https://github.com/mapillary/OpenSfM)|
+
+
+
+
+
+
+
+
+
+
+
+
+
