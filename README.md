@@ -15,3 +15,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 |Semantic Segmentation| [“Deeplab v3” Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1708.02002.pdf)|[CODE](https://github.com/tensorflow/models/tree/master/research/deeplab)|
 |Instance Segmentation| [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)|[CODE](https://github.com/matterport/Mask_RCNN)|
 |Human Pose Estimation| [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1812.08008.pdf)|[CODE](https://github.com/CMU-Perceptual-Computing-Lab/openpose)|
+|Hand Pose Estimation| [GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB](https://arxiv.org/pdf/1712.01057.pdf)| |
+|Instance Segmentation| [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)|[CODE](https://github.com/matterport/Mask_RCNN)|
