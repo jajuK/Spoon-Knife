@@ -20,17 +20,12 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 |Face Recognition| [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832v3.pdf)|[CODE](https://github.com/davidsandberg/facenet)|
 |Tracking| [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/pdf/1812.05050.pdf)|[CODE](https://github.com/foolwood/SiamMask)|
 |Depth Estimation| [Digging Into Self-Supervised Monocular Depth Estimation](https://arxiv.org/pdf/1806.01260v3.pdf)|[CODE](https://github.com/nianticlabs/monodepth2)|
-|Structure from Motion| |[opensfm](https://github.com/mapillary/OpenSfM)|
-
-
-
-
-
-
-
-
-
-
-
+|Image Generation|[LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://arxiv.org/pdf/1809.11096.pdf)| |
+|Face Generation| [eGAN: A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)|[CODE](https://github.com/NVlabs/stylegan)|
+|Image to Image| [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)|[CODE](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)|
+|Style Transfer| [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/pdf/1802.06474v5.pdf)|[CODE](https://github.com/NVIDIA/FastPhotoStyle)|
+|Keypoint Detection and Tracking| [SuperPoint: Self-Supervised Interest Point Detection and Description](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)|[CODE](https://github.com/MagicLeapResearch/SuperPointPretrainedNetwork)|
+|Image Captioning| [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/pdf/1707.07998v3.pdf)|[CODE](https://github.com/facebookresearch/pythia)|
+|Text to Image| [StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks](https://arxiv.org/pdf/1710.10916.pdf)|[CODE](https://github.com/hanzhanggit/StackGAN)|
 
 
