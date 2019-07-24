@@ -12,19 +12,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 | :---:         |     :---:      |          :---: |
 | Classification| [“ResNet” Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)| Implemented in keras, pytorch, fastai |
 | Detection     |[RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)<br><br><br>[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)<br><br><br> [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)<br><br><br>[YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)|Part of FAIR’s Detectron<br><br><br>Part of [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)<br><br><br>Part of [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)<br><br><br>[CODE](https://pjreddie.com/darknet/yolo/)|
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
-| Detection     | [RetinaNet: Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)       | Part of FAIR’s Detectron      |
+|Semantic Segmentation| [“Deeplab v3” Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/pdf/1708.02002.pdf)|[CODE](https://github.com/tensorflow/models/tree/master/research/deeplab)|
