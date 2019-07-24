@@ -16,4 +16,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 |Instance Segmentation| [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)|[CODE](https://github.com/matterport/Mask_RCNN)|
 |Human Pose Estimation| [OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/pdf/1812.08008.pdf)|[CODE](https://github.com/CMU-Perceptual-Computing-Lab/openpose)|
 |Hand Pose Estimation| [GANerated Hands for Real-Time 3D Hand Tracking from Monocular RGB](https://arxiv.org/pdf/1712.01057.pdf)| |
-|Instance Segmentation| [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)|[CODE](https://github.com/matterport/Mask_RCNN)|
+|Face Detection| [Selective Refinement Network for High Performance Face Detection](https://arxiv.org/pdf/1809.02693v1.pdf)|[CODE](https://github.com/ChiCheng123/SRN)|
+|Face Recognition| [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832v3.pdf)|[CODE](https://github.com/davidsandberg/facenet)|
+|Tracking| [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://arxiv.org/pdf/1812.05050.pdf)|[CODE](https://github.com/foolwood/SiamMask)|
